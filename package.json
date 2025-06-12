@@ -1,0 +1,21 @@
+{
+  "name": "sunvoy-api-challenge-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/getUsers.js",
+  "scripts": {
+    "start": "node dist/getUsers.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@types/dotenv": "^6.1.1",
+    "@types/node": "^24.0.0",
+    "@types/node-fetch": "^2.6.12",
+    "dotenv": "^16.5.0",
+    "node-fetch": "^3.3.2",
+    "typescript": "^5.8.3"
+  }
+}
